@@ -5,6 +5,7 @@ Qt CPP APIs per Module utilization code.
 ## Utilization Code List
 
 - QPainter
+- QRegion
 
 ## Reference
 
