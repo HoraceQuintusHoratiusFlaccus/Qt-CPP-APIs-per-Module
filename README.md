@@ -6,6 +6,7 @@ Qt CPP APIs per Module utilization code.
 
 - QPainter
 - QRegion
+- QBackingStore
 
 ## Reference
 
