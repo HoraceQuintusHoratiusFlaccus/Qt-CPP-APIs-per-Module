@@ -8,6 +8,7 @@ Qt CPP APIs per Module utilization code.
 - QRegion
 - QBackingStore
 - QBitmap & QPixmap
+- QBrush
 
 ## Reference
 
