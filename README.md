@@ -10,6 +10,7 @@ Qt CPP APIs per Module utilization code.
 - QBitmap & QPixmap
 - QBrush
 - QClipboard
+- QColor
 
 ## Reference
 
